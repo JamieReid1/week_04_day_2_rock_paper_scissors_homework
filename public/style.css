@@ -1,0 +1,51 @@
+
+body {
+  margin: 0;
+  background-image: url(https://assets.recogmedia.net/1/Entry_Uploads/28613-thumb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  background-color: lightgrey;
+  height: 40px;
+}
+
+a {
+  position:relative;
+  top: 7px;
+  margin-left: 50px;
+  text-decoration: none;
+  color: rgb(0,76,212);
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: rgb(0,76,212);
+  font-size: 40px;
+  font-weight: bold;
+}
+
+ul {
+  color: rgb(0,76,212);
+  font-weight: bold;
+  font-size: 18px;
+}
+
+div {
+  color: rgb(0,76,212);
+  font-size: 18px;
+  position: relative;
+  left:525px;
+  top: 165px;
+}
+
+#p1 {
+  font-weight: bold;
+}
+
+#p2 {
+  font-weight: bold;
+}
